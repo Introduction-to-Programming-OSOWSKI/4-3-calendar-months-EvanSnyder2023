@@ -1,4 +1,4 @@
-def calander(m):
+def calendar(m):
 
         for i in range(0, len(month)):
             if m == month[i]:
